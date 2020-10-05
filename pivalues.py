@@ -12,4 +12,5 @@ while True:
         q=input("press 'q' to quit:")
         if q=='q':
             break
+print("value of py:")
 print(4*x)
